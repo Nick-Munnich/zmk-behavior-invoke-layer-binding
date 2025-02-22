@@ -1,0 +1,5 @@
+description: Invokes a binding from a layer
+
+compatible: "zmk,behavior-invoke-layer-binding"
+
+include: two_param.yaml
