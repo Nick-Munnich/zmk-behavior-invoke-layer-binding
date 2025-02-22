@@ -1,9 +1,3 @@
- /*
- * Copyright (c) 2020 The ZMK Contributors
- *
- * SPDX-License-Identifier: MIT
- */
-
 #define DT_DRV_COMPAT zmk_behavior_invoke_layer_binding
 
 #include <zephyr/device.h>
